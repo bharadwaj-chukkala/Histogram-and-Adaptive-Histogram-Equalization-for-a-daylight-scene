@@ -3,7 +3,7 @@
 
 #### Comparison of Histogram Equalization and Adaptive Histogram Equalization
 <p align="center">
-  <img width="500" height="400" src="https://user-images.githubusercontent.com/106445479/192196670-e6118dbe-d524-44c9-9b3c-58dd435831db.gif">
+  <img width="500" height="300" src="https://user-images.githubusercontent.com/106445479/192196670-e6118dbe-d524-44c9-9b3c-58dd435831db.gif">
 </p>
 
 
