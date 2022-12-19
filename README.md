@@ -54,6 +54,7 @@ The challenge is to not use any inbuilt functions from open source libraries but
 </p>
 <p align="center">Fig: Histogram vs Adaptive Histogram</p>
 
+#### [Implementation Video](https://drive.google.com/file/d/1pOVUtEE8CBgBspRY5OWFubUl79Ctn0dL/view?usp=share_link)
 
 ## References
 
