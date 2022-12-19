@@ -1,4 +1,4 @@
-> # Histogram-Equalization-for-a-daylight-scene
+# Histogram-Equalization-for-a-daylight-scene
 
 ## Objective
 
