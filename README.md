@@ -2,13 +2,21 @@
 
 ## Objective
 
-Histogram Equalization is an image processing technique that adjusts the contrast of an
-image. The aim of this project is to enhance the image contrast of a dataset using two techniques.
+Histogram Equalization is an image processing technique that adjusts the contrast of an image. The aim of this project is to enhance the image contrast of a dataset using two techniques.
 
 * Histogram Equalization
 * Adaptive Histogram Equalization
 
 The challenge is to not use any inbuilt functions from open source libraries but to implement the mathematics behind the functions and understand how things work behind the API. Once you have implemented both of them compare the result of each technique and validate them with the original dataset.
+
+## Personnel
+
+**Bharadwaj Chukkala**<br>
+UID: 118341705<br>
+Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning.<br>
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bchukkal@umd.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharadwaj-chukkala/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwaj-chukkala)
 
 ## Contents
 
