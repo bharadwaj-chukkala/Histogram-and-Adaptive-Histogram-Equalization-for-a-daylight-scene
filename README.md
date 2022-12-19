@@ -34,12 +34,13 @@ The challenge is to not use any inbuilt functions from open source libraries but
 1. Clone the repository
 
    ```
-   git clone 
+   git clone https://github.com/bharadwaj-chukkala/Histogram-and-Adaptive-Histogram-Equalization-for-a-daylight-scene.git
    ```
 2. Open the folder in the IDE
 3. Run the `Hist_and_Clahe.py` file
 
    ```
+   cd <root>
    python Hist_and_Clahe.py
    ```
 4. Uncomment the commented lines at the end to save outputs to outputs folder
